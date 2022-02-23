@@ -1,0 +1,26 @@
+img{
+    image-resolution: 120px;
+}
+
+#lineal{
+    display: flex;
+}
+
+#credito{
+    color: orangered;
+    font-size: 1.5em;
+}
+
+#dinero{
+    font-size: 5em;
+    line-height: 70px;
+}
+
+#euro{
+    font-size: 1.4em;
+}
+
+#tirar{
+    width: 180px;
+    height: 180px;
+}
